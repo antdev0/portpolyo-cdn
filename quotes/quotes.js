@@ -1,4 +1,4 @@
-const quotes = [
+export const quotes = [
 	{
 		text: 'Most of modern life, all our diseases, are diseases of abundance, not diseases of scarcity.',
 		author: 'Naval Ravikant',
